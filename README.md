@@ -1,0 +1,2 @@
+# testgitignore
+testing gitignore setups
